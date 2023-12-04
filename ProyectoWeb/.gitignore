@@ -1,0 +1,22 @@
+# Archivos generados por el sistema operativo
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Directorio del entorno virtual
+venv/
+myenv/
+
+# Archivos del editor
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de configuración local
+.env
+
+# Archivos generados por Django
+db.sqlite3
+media/
+static/
